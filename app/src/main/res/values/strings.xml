@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MOISE</string>
+    <string name="title_activity_welcome">217195520</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">ISHIMWE MOISE</string>
+    <string name="nav_header_subtitle">ishimwemoisegove@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="usernamehint">Enter username</string>
+</resources>
